@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @PHPDev7313
 - 👀 I’m interested in OOPHP, Outdoors
-- 🌱 I’m currently learning ...
-- 💞️ I’m NOT looking to collaborate at this time
-- 📫 How to reach me by $email = ['phpdeveloper', 'at', 'mail', 'dot', 'com']
+- 💞️ I’m looking for freelance work
+- 🌐 How to reach me by my site: https://jessdigisys.com
+- Specialty:
+    - MySQL
+    - PHP 7 - current
+    - JavaScript
+    - HTML
+    - CSS
 
 <!---
 PHPDev7313/PHPDev7313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
