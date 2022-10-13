@@ -3,8 +3,8 @@
 - 💞️ I’m looking for freelance work
 - 🌐 How to reach me by my site: https://jessdigisys.com
 - Specialty:
-    - MySQL 5 - current
-    - PHP 7 - current
+    - MySQL 5 - through current
+    - PHP 7 - through current
     - JavaScript
     - HTML
     - CSS
