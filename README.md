@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @PHPDev7313
-- 👀 I’m interested in OOPHP, Outdoors
-- 💞️ I’m looking for freelance work
-- 🌐 How to reach me by my site: https://jessdigisys.com
-- How to reach me: phpdeveloper@jessdigisys.com
-- Specialty:
-    - PHP 7 - through current
-    - JavaScript
-    - HTML5
-    - CSS3
-    - CSS Prefer Foundation Framework
+Full Stack Developer
+- PHP 8.2
+- JavaScript
+- CSS
+- CSS [Foundation Framework](https://get.foundation/)
+- MySql
+- MariaDB 10.11
+- Apache Web Server 2.4
+- 
+
+- [My site](https://jessdigisys.com)
+- How to reach me: [here](hpdeveloper@jessdigisys.com)
+
 
 <!---
 PHPDev7313/PHPDev7313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
