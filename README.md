@@ -9,7 +9,7 @@ Full Stack Developer
 - 
 
 - [My site](https://jessdigisys.com)
-- How to reach me: [here](hpdeveloper@jessdigisys.com)
+- How to reach me: [here](mailto:phpdeveloper@jessdigisys.com)
 
 
 <!---
