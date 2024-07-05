@@ -1,10 +1,10 @@
 Full Stack Developer
-- PHP 8.2
+- PHP 8.3
 - JavaScript
 - CSS
 - CSS [Foundation Framework](https://get.foundation/)
 - MySql
-- MariaDB 10.11
+- MariaDB 11.4
 - Apache Web Server 2.4
 - 
 
