@@ -6,7 +6,7 @@ Full Stack Developer
 - MySql
 - MariaDB 11.4
 - Apache Web Server 2.4
-- 
+  
 
 - [My site](https://jessdigisys.com)
 - How to reach me: [here](mailto:phpdeveloper@jessdigisys.com)
