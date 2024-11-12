@@ -1,5 +1,6 @@
 Full Stack Developer
 - PHP 8.3
+- HTML 5.0
 - JavaScript
 - CSS
 - CSS [Foundation Framework](https://get.foundation/)
