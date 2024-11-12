@@ -4,7 +4,7 @@ Full Stack Developer
 - JavaScript
 - CSS
 - CSS [Foundation Framework](https://get.foundation/)
-- MySql
+- MySql 8.0+
 - MariaDB 11.4
 - Apache Web Server 2.4
   
